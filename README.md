@@ -29,7 +29,7 @@ Hi, I'm **rogergcc/rogergcc** 😄, a developer 👨🏻‍💻 from Peru 🇵�
 - 🌱 I’m currently learning MongoDb Express Android Nodejs 😁 and AppScript&GoogleSheets a some IOT.
 - 🤔 My research interests are with Locations Mobiles Systems, Android Mobile Security, etc.
 - 💼 I’m pursuing a Ph.D. degree or R.A. position related System Engineering.
-- 💬 Ask me about anything, I would like to answer.
+- 💬 Ask me about anything about apps & development, I would like to answer.
 - 📫 Please email via rogcolquehuancac@gmail.com to reach me.
 - 👀 See my [Curriculum Vitae/Resume](https://drive.google.com/file/d/1lG9WtQtrryv9ckFrHhE3EYe1kVu0yitA/view?usp=sharing) to get more info.
 

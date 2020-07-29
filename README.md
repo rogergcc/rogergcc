@@ -15,6 +15,10 @@
 <a href="https://www.hackerrank.com/rogergcc?hr_r=1">
   <img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
+<a href="https://www.codewars.com/users/rogergcc">
+  <img align="left" alt="Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codewars.svg" />
+</a>
+
 
 <br />
 <br />

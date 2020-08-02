@@ -6,9 +6,7 @@
 <a href="https://www.linkedin.com/in/roger-colquehuanca-calcina/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
-<a href="rogcolquehuancac@gmail.com">
-  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
-</a>
+
 <a href="https://codepen.io/rogergcc/">
   <img align="left" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
 </a>
@@ -36,7 +34,6 @@ Hi, I'm **rogergcc/rogergcc** 😄, a developer 👨🏻‍💻 from Peru 🇵�
 - 🤔 My research interests are with Locations Mobiles Systems, Android Mobile Security, etc.
 - 💼 I’m pursuing a Ph.D. degree or R.A. position related System Engineering.
 - 💬 Ask me about anything about apps & development & movies-tv, I would like to answer.
-- 📫 Please email via rogcolquehuancac@gmail.com to reach me.
 
 ![rogergcc's github stats](https://github-readme-stats.vercel.app/api?username=rogergcc&show_icons=true&hide_border=true)
 

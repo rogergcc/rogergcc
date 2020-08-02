@@ -37,7 +37,6 @@ Hi, I'm **rogergcc/rogergcc** 😄, a developer 👨🏻‍💻 from Peru 🇵�
 - 💼 I’m pursuing a Ph.D. degree or R.A. position related System Engineering.
 - 💬 Ask me about anything about apps & development & movies-tv, I would like to answer.
 - 📫 Please email via rogcolquehuancac@gmail.com to reach me.
-- 👀 See my [Curriculum Vitae/Resume](https://drive.google.com/file/d/1lG9WtQtrryv9ckFrHhE3EYe1kVu0yitA/view?usp=sharing) to get more info.
 
 ![rogergcc's github stats](https://github-readme-stats.vercel.app/api?username=rogergcc&show_icons=true&hide_border=true)
 

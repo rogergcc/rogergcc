@@ -32,7 +32,7 @@ Hi, I'm **rogergcc/rogergcc** 😄, a developer 👨🏻‍💻 from Peru 🇵�
 - 👨🏻‍💻 I’m currently working on Game Mobile App and Develivery App.
 - 🌱 I’m currently learning MongoDb Express Android Nodejs 😁 and AppScript&GoogleSheets a some IOT.
 - 🤔 My research interests are with Locations Mobiles Systems, Android Mobile Security, etc.
-- 💼 I’m pursuing a Ph.D. degree or R.A. position related System Engineering.
+- 💼 I’m looking fro MEng. degree or R.A. position related System Engineering.
 - 💬 Ask me about anything about apps & development & movies-tv, I would like to answer.
 
 ![rogergcc's github stats](https://github-readme-stats.vercel.app/api?username=rogergcc&show_icons=true&hide_border=true)

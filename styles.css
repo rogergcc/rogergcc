@@ -1,4 +1,8 @@
 .grid {
     display: flex;
    }
+
+.item-description {
+flex: 1;
+}
   

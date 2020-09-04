@@ -28,21 +28,19 @@
 <br />
 
 Hi, I'm **rogergcc/rogergcc** 😄, a developer 👨🏻‍💻 from Peru 🇵🇪 . I'm an Mobile Developer [Android] and all things about realtime apps. Currently, I'm working on Game and Develivery App. Beside's development, I like Movies and sports 🏃.
-<div class="grid">
-<div>
+
   <img align="right" alt="GIF" src="https://media1.giphy.com/media/7AaBuyVxo83TNjZWAl/giphy.gif" />
-</div>
 
-<div>
 
-**Here we go**
+  **Here we go**
 
-- 👨🏻‍💻 I’m currently working on Game Mobile App and Develivery App.
-- 🌱 I’m currently learning MongoDb Express Android Nodejs 😁 and AppScript&GoogleSheets a some smarttv apps.
-- 🤔 My research interests are with Locations Mobiles Systems, Android Mobile Security, etc.
-- 💼 I’m looking fro MEng. degree or a position related System Engineering.
-- 💬 Ask me about anything about apps & development & movies-tv, I would like to answer.
-</div>
+  - 👨🏻‍💻 I’m currently working on Game Mobile App and Develivery App.
+  - 🌱 I’m currently learning MongoDb Express Android Nodejs 😁 and AppScript&GoogleSheets a some smarttv apps.
+  - 🤔 My research interests are with Locations Mobiles Systems, Android Mobile Security, etc.
+  - 💼 I’m looking fro MEng. degree or a position related System Engineering.
+  - 💬 Ask me about anything about apps & development & movies-tv, I would like to answer.
+ 
 
-</div>
+
+
 ⭐️ From [rogergcc](https://github.com/rogergcc)

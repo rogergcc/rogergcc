@@ -1,4 +1,12 @@
 ### Hi there 👋
+<style>
+ .grid {
+  display: flex;
+ }
+
+
+</style>
+
 
 <a href="https://medium.com/@rogercolque">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" />
@@ -24,9 +32,7 @@
 <br />
 
 Hi, I'm **rogergcc/rogergcc** 😄, a developer 👨🏻‍💻 from Peru 🇵🇪 . I'm an Mobile Developer [Android] and all things about realtime apps. Currently, I'm working on Game and Develivery App. Beside's development, I like Movies and sports 🏃.
-<div style="
-    display: flex;
-">
+<div class="grid">
 <div>
 **Here we go**
 

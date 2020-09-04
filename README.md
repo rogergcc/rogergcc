@@ -1,11 +1,7 @@
+<link rel="stylesheet" type="text/css" href="./style.css" />
+
+
 ### Hi there 👋
-<style>
- .grid {
-  display: flex;
- }
-
-
-</style>
 
 
 <a href="https://medium.com/@rogercolque">

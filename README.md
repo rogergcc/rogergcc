@@ -24,7 +24,7 @@
 <br />
 
 Hi, I'm **rogergcc/rogergcc** 😄, a developer 👨🏻‍💻 from Peru 🇵🇪 . I'm an Mobile Developer [Android] and all things about realtime apps. Currently, I'm working on Game and Develivery App. Beside's development, I like Movies and sports 🏃.
-
+<div style="display:flex">
 <div>
 **Here we go**
 
@@ -34,7 +34,8 @@ Hi, I'm **rogergcc/rogergcc** 😄, a developer 👨🏻‍💻 from Peru 🇵�
 - 💼 I’m looking fro MEng. degree or a position related System Engineering.
 - 💬 Ask me about anything about apps & development & movies-tv, I would like to answer.
 </div>
-
+<div>
   <img align="right" alt="GIF" src="https://media1.giphy.com/media/7AaBuyVxo83TNjZWAl/giphy.gif" />
-
+</div>
+</div>
 ⭐️ From [rogergcc](https://github.com/rogergcc)

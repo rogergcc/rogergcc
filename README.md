@@ -34,7 +34,7 @@ Hi, I'm **rogergcc/rogergcc** 😄, a developer 👨🏻‍💻 from Peru 🇵�
 
   **Here we go**
 
-  - 👨🏻‍💻 I’m currently working on Game Mobile App and Develivery App.
+  - 👨🏻‍💻 I’m currently working on Game Mobile App.
   - 🌱 I’m currently learning MongoDb Express Android Nodejs 😁 and AppScript&GoogleSheets a some smarttv apps.
   - 🤔 My research interests are with Locations Mobiles Systems, Android Mobile Security, etc.
   - 💼 I’m looking fro MEng. degree or a position related System Engineering.

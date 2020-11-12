@@ -38,8 +38,9 @@ Hi, I'm **rogergcc/rogergcc** 😄, a developer 👨🏻‍💻 from Peru 🇵�
   - 💼 I’m looking fro MEng. degree or a position related System Engineering.
   - 💬 Ask me about anything about apps & development & movies-tv, I would like to answer.
  
+---
 
-# Blog posts
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

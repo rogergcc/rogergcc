@@ -41,6 +41,8 @@ Hi, I'm **rogergcc/rogergcc** 😄, a developer 👨🏻‍💻 from Peru 🇵�
   - 💬 Ask me about anything about apps & development & movies-tv, I would like to answer.
  
 
-
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ⭐️ From [rogergcc](https://github.com/rogergcc)

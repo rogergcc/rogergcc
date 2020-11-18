@@ -1,14 +1,15 @@
-name: Latest blog post workflow Main
+name: Latest blog post workflow main yml
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest blog posts yml
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@1.4.0
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://blogdevtrip.hashnode.dev/rss.xml"

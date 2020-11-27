@@ -22,12 +22,12 @@
 </a>
 
 
-<br />
+
+
+
 <br />
 
 Hi, I'm **rogergcc/rogergcc** 😄, a developer 👨🏻‍💻 from Peru 🇵🇪 . I'm an Mobile Developer [Android] and all things about realtime apps. Currently, I'm working on Game and Develivery App. Beside's development, I like Movies and sports 🏃.
-
-  <img align="right" alt="GIF" src="https://media1.giphy.com/media/7AaBuyVxo83TNjZWAl/giphy.gif" />
 
 
   **Here we go**
@@ -45,5 +45,7 @@ Hi, I'm **rogergcc/rogergcc** 😄, a developer 👨🏻‍💻 from Peru 🇵�
 - [Web api with Google Sheet + AppScript](https://blogdevtrip.hashnode.dev/web-api-with-google-sheet-appscript-1)
 - [Webservices en minutos con Google Sheet como fuente de datos](https://blogdevtrip.hashnode.dev/webservices-en-minutos-con-google-sheet-como-fuente-de-datos)
 <!-- BLOG-POST-LIST:END -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rogergcc&show_icons=true)  
 
 ⭐️ From [rogergcc](https://github.com/rogergcc)

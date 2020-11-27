@@ -45,4 +45,7 @@ Hi, I'm **Roger** 😄, a developer 👨🏻‍💻 from Peru 🇵🇪 . I'm an 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rogergcc&show_icons=true)  
 
+![Profile views](https://gpvc.arturio.dev/rogergcc)  
+
+
 ⭐️ From [rogergcc](https://github.com/rogergcc)

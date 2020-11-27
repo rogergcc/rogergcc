@@ -21,8 +21,10 @@
   <img align="left" alt="Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codewars.svg" />
 </a>
 
+<br>
+<br>
 
-Hi, I'm **rogergcc/rogergcc** 😄, a developer 👨🏻‍💻 from Peru 🇵🇪 . I'm an Mobile Developer [Android] and all things about realtime apps. Currently, I'm working on Game and Develivery App. Beside's development, I like Movies and sports 🏃.
+Hi, I'm **Roger** 😄, a developer 👨🏻‍💻 from Peru 🇵🇪 . I'm an Mobile Developer [Android] and all things about realtime apps. Currently, I'm working on Game and Develivery App. Beside's development, I like Movies and sports 🏃.
 
 
   **Here we go**

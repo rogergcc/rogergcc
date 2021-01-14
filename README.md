@@ -24,14 +24,14 @@
 <br>
 <br>
 
-Hi, I'm **Roger** 😄, a developer 👨🏻‍💻 from Peru 🇵🇪 . I'm an Mobile Developer [Android] and all things about realtime apps. Currently, I'm working on Game and Develivery App. Beside's development, I like Movies and sports 🏃.
+Hi, I'm **Roger** 😄, a developer 👨🏻‍💻 from Peru 🇵🇪 . I'm an Mobile Developer [Android] and all things about realtime apps. I like Movies and sports 🏃.
 
 
   **Here we go**
 
-  - 👨🏻‍💻 I’m currently working on Game Mobile App.
-  - 🌱 I’m currently learning MongoDb Express Android Nodejs 😁 and AppScript&GoogleSheets a some smarttv apps.
-  - 🤔 My research interests are with Locations Mobiles Systems, Android Mobile Security, etc.
+  - 👨🏻‍💻 I’m currently working on Android App.
+  - 🌱 I’m currently learning MongoDb Express Android Nodejs 😁 and AppScript.
+  - 🤔 My research interests are with  Android Mobile Geolocation, etc.
   - 💼 I’m looking fro MEng. degree or a position related System Engineering.
   - 💬 Ask me about anything about apps & development & movies-tv, I would like to answer.
  

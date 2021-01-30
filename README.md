@@ -37,14 +37,3 @@ Hi, I'm **Roger** 😄, a developer 👨🏻‍💻 from Peru 🇵🇪 . I'm an 
  
 ---
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Web api with Google Sheet + AppScript](https://blogdevtrip.hashnode.dev/web-api-with-google-sheet-appscript-1)
-- [Webservices en minutos con Google Sheet como fuente de datos](https://blogdevtrip.hashnode.dev/webservices-en-minutos-con-google-sheet-como-fuente-de-datos)
-<!-- BLOG-POST-LIST:END -->
-
-
-![Profile views](https://gpvc.arturio.dev/rogergcc)  
-
-
-⭐️ From [rogergcc](https://github.com/rogergcc)

@@ -4,22 +4,6 @@
 ### Hi there 👋
 
 
-<a href="https://medium.com/@rogercolque">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" />
-</a>
-<a href="https://www.linkedin.com/in/roger-colquehuanca-calcina/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
-</a>
-
-<a href="https://codepen.io/rogergcc/">
-  <img align="left" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
-</a>
-<a href="https://www.hackerrank.com/rogergcc?hr_r=1">
-  <img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
-</a>
-<a href="https://www.codewars.com/users/rogergcc">
-  <img align="left" alt="Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codewars.svg" />
-</a>
 
 <br>
 <br>
@@ -36,4 +20,14 @@ Hi, I'm **Roger** 😄, a developer 👨🏻‍💻 from Peru 🇵🇪 . I'm an 
   - 💬 Ask me about anything about apps & development & movies-tv, I would like to answer.
  
 ---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/rogergcc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rogergcc" height="30" width="40" /></a>
+<a href="https://dev.to/rogergcc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rogergcc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roger-colquehuanca-calcina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="roger-colquehuanca-calcina" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/rogergcc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="rogergcc" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rogergcc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rogergcc" height="30" width="40" /></a>
+<a href="/https://blogdevtrip.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://blogdevtrip.hashnode.dev/" height="30" width="40" /></a>
+</p>
 

@@ -4,10 +4,6 @@
 ### Hi there 👋
 
 
-
-<br>
-<br>
-
 Hi, I'm **Roger** 😄, a developer 👨🏻‍💻 from Peru 🇵🇪 . I'm an Mobile Developer [Android] and all things about realtime apps. I like Movies and sports 🏃.
 
 
@@ -18,8 +14,7 @@ Hi, I'm **Roger** 😄, a developer 👨🏻‍💻 from Peru 🇵🇪 . I'm an 
   - 🤔 My research interests are with  Android Mobile Geolocation, etc.
   - 💼 I’m looking fro MEng. degree or a position related System Engineering.
   - 💬 Ask me about anything about apps & development & movies-tv, I would like to answer.
- 
----
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

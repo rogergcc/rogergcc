@@ -20,7 +20,7 @@ Hi, I'm **Roger** 😄, a developer 👨🏻‍💻 from Peru 🇵🇪 . I'm an 
 ## 🔗 Connect with me
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rogercolquecalcina.me/)
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:rcolquehuanca@rcdevtrip.ml)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:rogcolquehuancac@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/gccroger)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://linkedin.com/in/roger-colquehuanca-calcina)
 [![Hasnode](https://img.shields.io/badge/-HasNode-black?style=for-the-badge&logo=rss)](https://blogdevtrip.hashnode.dev)

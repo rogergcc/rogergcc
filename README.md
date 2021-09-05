@@ -10,7 +10,7 @@ Hi, I'm **Roger** 😄, a developer 👨🏻‍💻 from Peru 🇵🇪 . I'm an 
   **Here we go**
 
   - 👨🏻‍💻 I’m currently working Android App for hms and gms.
-  - 🌱 I’m currently learning MongoDb Express Android Nodejs 😁 and Google AppScript.
+  - 🌱 I’m currently learning MongoDb Express Android Nodejs and Google AppScript.
   - 🤔 My research interests are with  Android Mobile Geolocation and Maths etc.
   - 💼 I’m looking fro MEng. degree or a position related System Engineering.
   - 💬 Ask me about anything about apps & development & movies-tv, I would like to answer.

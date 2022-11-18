@@ -16,6 +16,15 @@ Hi, I'm **Roger** 😄, a developer 👨🏻‍💻 from Peru 🇵🇪 . I'm an 
   - 💬 Ask me about anything about apps & development & movies-tv series and rock, I would like to answer.
 
 
+<!--HACKTOBERFEST START -->
+
+ ### Hacktoberfest Badges 2022
+ 
+[![@rogergcc's Holopin board](https://holopin.me/rogergcc)](https://holopin.io/@rogergcc)
+
+<!--HACKTOBERFEST END -->
+
+
 ## 🔗 Connect with me
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rogercolquecalcina.me/)

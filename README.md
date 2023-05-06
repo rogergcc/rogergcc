@@ -17,11 +17,11 @@ Hi, I'm **Roger** 😄, a developer 👨🏻‍💻 from Peru 🇵🇪 . I'm an 
 
 
 <!--HACKTOBERFEST START -->
-
+<!--
  ### Hacktoberfest Badges 2022
  
 [![@rogergcc's Holopin board](https://holopin.me/rogergcc)](https://holopin.io/@rogergcc)
-
+-->
 <!--HACKTOBERFEST END -->
 
 

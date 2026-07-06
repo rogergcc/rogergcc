@@ -4,14 +4,15 @@
 ### Hi there 👋
 
 
-Hi, I'm **Roger**, a developer . I'm an Mobile Developer [Android] and all things about realtime apps. I like Movies and sports 🏃.
+Mobile Developer [Android] and all things about realtime apps. I like Movies and sports 🏃.
 
 
   **Here we go**
-
+<!--
   - 👨🏻‍💻 I’m currently working Android App for HMS and GMS and Android Pentest.
   - 🌱 I’m currently learning Mean Stack MongoDb Express **Android** Nodejs & Bots.
   - 🤔 My research interests are with  Android Mobile Geolocation and Maths.
+  - -->
   - 💼 I’m looking for Master Eng. degree or a position related Engineering - Mobile Security.
   - 💬 Ask me about anything about apps & development & movies-tv series and rock, I would like to answer.
 
